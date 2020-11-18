@@ -22,4 +22,4 @@ Github repository: [https://github.com/kmjax/js_proj_01](https://github.com/kmja
 
 Clone from Github via HTTPS:
 
-`git clone https://github.com/kmjax/css_advanced_proj.git`
+`git clone https://github.com/kmjax/js_proj_01.git`
