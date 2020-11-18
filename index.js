@@ -7,7 +7,9 @@
 // ===================================
 
 let answer = 8;
-let guess = prompt("What is your guess?");
+let guess = prompt(
+  "I am thinking of a number between 1 and 12.\nWhat is your guess?"
+);
 
 if (guess == answer) {
   alert("You guessed it!");
